@@ -5,6 +5,8 @@ description: This resource contains the information regarding modeling environme
 file: /courses/12-086-modeling-environmental-complexity-fall-2014/f6da02f74cb40f089e00d3f08d7fef50_MIT12_086F14_networks.pdf
 file_size: 408005
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
