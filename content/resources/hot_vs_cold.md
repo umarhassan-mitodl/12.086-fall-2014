@@ -4,8 +4,6 @@ description: This resource contains the information regarding hot_vs_cold.m.
 file: /courses/12-086-modeling-environmental-complexity-fall-2014/b1a9f0df5c5f908bb05ce5a6374e58e3_hot_vs_cold.m
 file_size: 857
 file_type: text/x-objcsrc
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

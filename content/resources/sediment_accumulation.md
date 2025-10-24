@@ -4,8 +4,6 @@ description: This resource contains the information regarding sediment_accumulat
 file: /courses/12-086-modeling-environmental-complexity-fall-2014/c1208faf992c09a7170fe869f2d4b9eb_sediment_accumulation.m
 file_size: 1495
 file_type: text/x-objcsrc
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
